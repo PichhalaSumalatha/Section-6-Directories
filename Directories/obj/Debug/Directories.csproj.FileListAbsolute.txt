@@ -1,0 +1,8 @@
+D:\Assisted Projects\Section-6\Directories\Directories\bin\Debug\Directories.exe.config
+D:\Assisted Projects\Section-6\Directories\Directories\bin\Debug\Directories.exe
+D:\Assisted Projects\Section-6\Directories\Directories\bin\Debug\Directories.pdb
+D:\Assisted Projects\Section-6\Directories\Directories\obj\Debug\Directories.csproj.AssemblyReference.cache
+D:\Assisted Projects\Section-6\Directories\Directories\obj\Debug\Directories.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Projects\Section-6\Directories\Directories\obj\Debug\Directories.csproj.CoreCompileInputs.cache
+D:\Assisted Projects\Section-6\Directories\Directories\obj\Debug\Directories.exe
+D:\Assisted Projects\Section-6\Directories\Directories\obj\Debug\Directories.pdb
